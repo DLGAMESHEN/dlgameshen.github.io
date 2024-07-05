@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+    ░████████╗██╗░░░██╗██╗░░░██╗░██████╗░░██████╗████████╗░██████╗░███████╗░███████╗░
+    ░╚════██╔╝██║░░░██║██║░░██╔╝██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔═══██╗██╔════╝░
+    ░░░░██╔═╝░██║░░░██║█████╔═╝░██║░░░██║╚█████╗░░░░██║░░░██║░░░██║███████╔╝█████╗░░░
+    ░░██╔═╝░░░██║░░░██║██╔══██╗░██║░░░██║░╚═══██╗░░░██║░░░██║░░░██║██╔═══██╗██╔══╝░░░
+    ░████████╗╚██████╔╝██║░░░██╗╚██████╔╝██████╔╝░░░██║░░░╚██████╔╝██║░░░██║███████╗░
+    ░╚═══════╝░╚═════╝░╚═╝░░░╚═╝░╚═════╝░╚═════╝░░░░╚═╝░░░░╚═════╝░╚═╝░░░╚═╝╚══════╝░
+	░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-->
+
+<X version="1.0">
+
+<!-- PKG Store PS1 Convertidos (editado el 24/12/2023) Zuko MRC -->
+
+    <V id="0"> 
+		<A> 
+		    <T key="007_racing">
+                <P key="icon"><>/dev_hdd0/game/ZUKOSTORE/USRDIR/pkg_store/pkg_ps1/imagenes/007_racing.png</></P>
+	        	<P key="title"><>007 Racing (USA)</></P>
+				<P key="info"><>SLUS01300 - 545.79 MB</></P>
+				<P key="ingame"><>disable</></P>
+	        	<P key="module_name"><>webrender_plugin</></P>
+	    	    <P key="module_action"><>http://content.thezukostore.com/htmls/v4.5_tbo/pkg1/007_rac1n6.html</></P>
+        	</T>
+		    <T key="007_the_world_is_not_enough">
+                <P key="icon"><>/dev_hdd0/game/ZUKOSTORE/USRDIR/pkg_store/pkg_ps1/imagenes/007_the_world_is_not_enough.png</></P>
+	        	<P key="title"><>007 The World is not Enough (USA)</></P>
+				<P key="info"><>SLUS01272 - 696.63 MB</></P>
+				<P key="ingame"><>disable</></P>
+	        	<P key="module_name"><>webrender_plugin</></P>
+	    	    <P key="module_action"><>http://content.thezukostore.com/htmls/v4.5_tbo/pkg1/007_the3_w0rld_isn07_en0u6h.html</></P>
+        	</T>
+		    <T key="007_tomorrow_never_dies">
+                <P key="icon"><>/dev_hdd0/game/ZUKOSTORE/USRDIR/pkg_store/pkg_ps1/imagenes/007_tomorrow_never_dies.png</></P>
+	        	<P key="title"><>007 Tomorrow Never Dies (USA)</></P>
+				<P key="info"><>SLUS00975 - 551.92 MB</></P>
+				<P key="ingame"><>disable</></P>
+	        	<P key="module_name"><>webrender_plugin</></P>
+	    	    <P key="module_action"><>http://content.thezukostore.com/htmls/v4.5_tbo/pkg1/007_tom0rr0w_n3v3rd13s.html</></P>
+        	</T>
+        </A>
+        <I>
+			<I class="type:x-xmb/module-action" key="007_racing" attr="007_racing"/>
+			<I class="type:x-xmb/module-action" key="007_the_world_is_not_enough" attr="007_the_world_is_not_enough"/>
+			<I class="type:x-xmb/module-action" key="007_tomorrow_never_dies" attr="007_tomorrow_never_dies"/>
+	   </I>
+    </V>
+	
+</X>
